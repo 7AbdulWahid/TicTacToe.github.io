@@ -1,10 +1,11 @@
-@media (max-width: 390px) {
+t@media (max-width: 390px) {
     #panal {
         width: 100%;
     }
 
     #gamepanal {
         width: 90%;
+        height: auto;
     }
 }
 
@@ -15,6 +16,7 @@
 
     #gamepanal {
         width: 80%;
+        height: auto;
     }
 }
 
@@ -25,6 +27,7 @@
 
     #gamepanal {
         width: 65%;
+        height: auto;
     }
 }
 @media (max-width: 720px) {
@@ -39,6 +42,7 @@
 
     #gamepanal {
         height: 85%;
+        width: auto;
     }
 }
 
