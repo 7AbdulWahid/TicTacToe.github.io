@@ -27,7 +27,11 @@
         width: 65%;
     }
 }
-
+@media (max-width: 720px) {
+    :root{
+        font-size: 15px;
+    }
+}
 @media (min-width: 720px) and (max-width: 900px) {
     #panal {
         width: 90%;
