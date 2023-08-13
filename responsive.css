@@ -1,0 +1,51 @@
+@media (max-width: 390px) {
+    #panal {
+        width: 100%;
+    }
+
+    #gamepanal {
+        width: 90%;
+    }
+}
+
+@media (min-width: 390px) and (max-width: 550px) {
+    #panal {
+        width: 90%;
+    }
+
+    #gamepanal {
+        width: 80%;
+    }
+}
+
+@media (min-width: 550px) and (max-width: 720px) {
+    #panal {
+        width: 90%;
+    }
+
+    #gamepanal {
+        width: 65%;
+    }
+}
+
+@media (min-width: 720px) and (max-width: 900px) {
+    #panal {
+        width: 90%;
+    }
+
+    #gamepanal {
+        height: 85%;
+    }
+}
+
+@media (min-width: 900px) {
+    #panal {
+        width: 90%;
+    }
+
+    #gamepanal {
+        height: 85%;
+        width: auto;
+        margin-top: 0;
+    }
+}
